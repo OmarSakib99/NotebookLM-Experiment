@@ -26,9 +26,13 @@ This is the interface of NotebookLM, and from there we can observe the following
 
 - **Question-Answer Session**:  
   Let's take an example from the suggested questions. In the response, if you see numbers, you can touch them to view the exact source from where the information was pulled. This is useful to ensure accuracy and avoid hallucinations, which can happen in AI models like ChatGPT. If you want to ask the next question based solely on a specific source (like a PDF), you can untick the other sources and proceed.
+![image alt](https://github.com/OmarSakib99/NotebookLM-Experiment/blob/bac1e24532f1b961459c2d85444a79086b036a8e/choosing-source.png)
+
 
 - **Suggested Ideas**:  
   This helps identify ideas you might have missed. By selecting a note, NotebookLM will suggest related ideas based on the content.
+![image alt](https://github.com/OmarSakib99/NotebookLM-Experiment/blob/029ec146f755776028cc4d1c579adc410c63d509/Sugest-related%20ideas.png)
 
 - **Podcast Generation**:  
   You can create a custom podcast by asking questions like, "Why do we use two-mean hypothesis testing?" This will prompt NotebookLM to generate a podcast, usually featuring two hosts, and lasting around 10 to 20 minutes.
+![image alt](https://github.com/OmarSakib99/NotebookLM-Experiment/blob/863b245c3bf6b1da0e36ac0954604f686f7f12b7/podcast-generation.png)
